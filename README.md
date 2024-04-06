@@ -1,0 +1,2 @@
+This examples demonstrates how to use multiprocessing package. Examples tested on python 3.10. 
+Read official python multiprocess documentation carefully, due to limitations on Linux, Windows OS, spawning process with threading etc.
